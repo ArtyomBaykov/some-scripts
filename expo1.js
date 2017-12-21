@@ -61,7 +61,7 @@ else {
     return (
       return  <Provider store={this.state.store}>
       <Root>
-            <Main/>
+            <Nav/>
             </Root>
 </Provider>;
     );
